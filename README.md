@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 🤔 UI Designer , Front End Web dev , willing to be Data analyst.
 - 📫 How to reach me: vidyasagar.cs20@bmsce.ac.in
 
+- Don't forget to visit oceanbuzz.me
+
