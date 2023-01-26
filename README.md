@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **H-Vidyasagar/H-Vidyasagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 UI Designer , Front End Web dev , willing to be Data analyst.
 - 📫 How to reach me: vidyasagar.cs20@bmsce.ac.in
 
-- Don't forget to visit oceanbuzz.me
+- To know more  [About me](oceanbuzz.me)
 
