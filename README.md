@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently Computer Science student at BMSCE
 - 🌱 I’m passionate about DATA Science and Analytics
-- 🤔 UI Designer , Front End Web dev , willing to be Data analyst.
+- 🤔 UI Designer , Front End Web dev 
 - 📫 How to reach me: vidyasagar.cs20@bmsce.ac.in
 
 - To know more  [About me](http://oceanbuzz.me)
